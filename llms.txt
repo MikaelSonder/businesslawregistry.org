@@ -1,1 +1,39 @@
+# Business Law Registry
 
+> Business Law Registry is an international editorial reference explaining how Business Law operates across jurisdictions.
+
+Business Law Registry publishes structured, jurisdiction-specific reference records for international business decision-makers. Business Law is treated as a broad, overarching professional function rather than a narrow legal specialty. Each record explains the legal and commercial questions businesses normally need to manage in order to establish, operate, develop and protect their activity in the selected jurisdiction.
+
+## Registry Structure
+
+- Home: https://businesslawregistry.org/
+- Jurisdiction Index: https://businesslawregistry.org/jurisdictions/
+- Jurisdiction Record Pattern: https://businesslawregistry.org/{jurisdiction}/
+
+## Editorial Scope
+
+Each jurisdiction record may cover:
+
+- Company formation and governance
+- Commercial contracts and transactions
+- Tax and regulatory administration
+- Employment and social-security interfaces
+- Competition and market conduct
+- Business registrations, authorities and legislation
+- Required documents and process flow
+- Operating constraints and risks
+- Costs and fees
+- Cross-border relevance
+- Disputes, restructuring and insolvency interfaces
+- Practical guidance and related professional areas
+
+## Editorial Method
+
+Records are neutral editorial references, not marketing pages, legal advice, directories, advertisements or affiliate content. They are designed to explain the practical institutional, legal, regulatory and commercial environment for Business Law in a selected jurisdiction.
+
+Each Registry Object represents one professional domain in one jurisdiction and follows a consistent editorial structure. Legal, tax, regulatory and procedural requirements can change; readers should verify current requirements through official sources and qualified advisers before acting.
+
+## Terms
+
+- Terms of Use: https://businesslawregistry.org/terms-of-use/
+- Privacy Policy: https://businesslawregistry.org/privacy-policy/
