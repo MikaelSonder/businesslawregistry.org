@@ -1,1 +1,147 @@
+# Business Law Registry
 
+> International editorial reference registry for Business Law across jurisdictions.
+
+Business Law Registry is a structured international reference publication for understanding how Business Law operates in practice within individual jurisdictions.
+
+Business Law is an Umbrella Professional Function. It deliberately has a broader scope than individual legal specialist areas because businesses normally face connected questions across company formation, governance, contracts, tax administration, employment, competition, regulatory compliance, transactions, restructuring and disputes.
+
+The Registry is written for international business decision-makers. It is designed to help readers understand the professional function, institutional structure, relevant authorities, legal framework, practical process and cross-border implications of operating a business in a selected jurisdiction.
+
+## Primary URLs
+
+- Home: https://businesslawregistry.org/
+- Jurisdiction Index: https://businesslawregistry.org/jurisdictions/
+- Terms of Use: https://businesslawregistry.org/terms-of-use/
+- Privacy Policy: https://businesslawregistry.org/privacy-policy/
+
+## Registry Architecture
+
+Home → Jurisdiction Index → Jurisdictional Business Law Record
+
+A Jurisdictional Business Law Record is a structured editorial object representing Business Law in one jurisdiction.
+
+URL pattern:
+
+https://businesslawregistry.org/{jurisdiction}/
+
+## Registry Philosophy
+
+- Educate before converting.
+- Authority before SEO.
+- Editorial quality before commercial value.
+- Neutrality before promotion.
+- Jurisdiction-specific reality before generic legal summaries.
+- Consistency is a feature.
+
+The Registry is not a law firm website, legal directory, advertising platform, affiliate publication or source of legal advice. It does not recommend an adviser through the editorial content.
+
+## Business Law Definition
+
+Business Law is the broad professional function concerned with the legal and commercial questions that a business normally needs to manage in order to establish, operate, develop and protect its activity.
+
+The function commonly includes:
+
+- Entity selection, formation and registration
+- Ownership, governance and authority to sign
+- Commercial contracts and transaction documentation
+- Sales, supply, procurement, distribution and service arrangements
+- Tax, VAT, payroll and business-administration interfaces
+- Employment and social-security interfaces
+- Licensing, permits and sector regulation
+- Competition and market conduct
+- Financing, investment, acquisitions and ownership changes
+- Data, intellectual-property and confidentiality interfaces
+- Restructuring, insolvency and dispute preparation
+- Cross-border structuring and market-entry considerations
+
+Business Law does not replace specialist advice in tax, employment, data protection, intellectual property, securities, competition, insolvency, real estate or regulated sectors. Those areas may become central in a specific matter.
+
+## Jurisdiction Record Model
+
+Every published jurisdictional record follows a stable editorial structure, subject to the specific legal and operational reality of the jurisdiction:
+
+1. Identity and Registry Metadata
+2. Executive Summary
+3. Object Definition
+4. Scope
+5. Purpose
+6. Primary Outcome
+7. Request Contexts
+8. Typical Users
+9. Typical Scenarios
+10. Country Characteristics
+11. Key Authorities
+12. Applicable Legislation
+13. Process Flow
+14. Decision Tree
+15. Timeline
+16. Required Documents
+17. Cross-Border Relevance
+18. Operating Constraints and Risks
+19. Costs and Fees
+20. FAQ
+21. Related Professional Areas
+22. Practical Guidance
+23. Jurisdictional Expert Position
+24. Machine Layer
+
+## Common Record Fields
+
+Each record can include the following structured information where relevant:
+
+- Object: Business Law
+- Object Type: Umbrella Professional Function
+- Registry Role: Jurisdictional Professional Function
+- Jurisdiction
+- Classification
+- Authorities and official websites
+- Legal instruments and current-status notes
+- Company and business registration pathways
+- Tax and employer registration pathways
+- Corporate governance and ownership records
+- Contractual operating framework
+- Regulatory and competition considerations
+- Business-document requirements
+- Cross-border recognition and market-entry considerations
+- Legal, operational and compliance risks
+- Practical preparation checklist
+
+## Intended Use
+
+Use Business Law Registry to understand:
+
+- What Business Law means in the selected jurisdiction.
+- Which public authorities are generally involved.
+- Which core legal and administrative layers are relevant.
+- How a business formation, market-entry or transaction process usually develops.
+- Which documents are commonly needed.
+- Which risks should be identified early.
+- Which cross-border issues can affect an international business.
+- When specialist professional assistance may be required.
+
+## Editorial Standards
+
+Registry records aim to be:
+
+- Neutral, factual and evidence-based.
+- Written in clear international English.
+- Structured as handbook chapters rather than landing pages.
+- Based primarily on official legislation, public authorities and recognised institutional sources.
+- Specific to the selected jurisdiction.
+- Consistent in information architecture and machine-readable metadata.
+
+Official source materials should take priority over secondary explanations. Legislation, procedures, thresholds, official fees, filing routes, agency names and regulatory requirements may change. Readers should always verify current requirements through official sources and obtain qualified professional advice before acting.
+
+## Technical and Retrieval Metadata
+
+Registry pages use semantic HTML, a single H1, stable section IDs, external registry CSS, canonical URLs, Open Graph metadata and JSON-LD. Each jurisdictional record also contains a machine layer with an Object DNA, AI retrieval summary, entity index and internal registry metadata.
+
+## Legal Notice
+
+Business Law Registry provides editorial reference material only. It is not legal, tax, accounting, employment, investment or regulatory advice. No content establishes a client, adviser or fiduciary relationship. Decisions should be made only after consultation with appropriately qualified professionals and verification through current official sources.
+
+## Site Policies
+
+- Terms of Use: https://businesslawregistry.org/terms-of-use/
+- Privacy Policy: https://businesslawregistry.org/privacy-policy/
